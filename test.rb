@@ -7,7 +7,7 @@ name = "World"
 
 # Parse command line arguments
 OptionParser.new do |opts|
-  opts.banner = "Usage: #{$0} [options]"
+  opts.banner = "Usage: #{File.basename($0)} [options]"
   
   opts.on("-n", "--name NAME", "Name to greet (default: World)") do |n|
     name = n
