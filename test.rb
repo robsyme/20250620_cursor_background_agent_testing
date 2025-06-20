@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
-puts "Hello, World!"
+puts "🎉 HELLO THERE, AMAZING WORLD! 🌟"
+puts "Welcome to the most FANTASTIC day ever! 🚀✨"
+puts "Let's make some INCREDIBLE things happen! 💫🎊"
